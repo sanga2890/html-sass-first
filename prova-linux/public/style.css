@@ -1,0 +1,11 @@
+body {
+  background-color: limegreen;
+}
+
+h1,
+h3 {
+  color: orange;
+  text-transform: uppercase;
+  text-align: center;
+}
+

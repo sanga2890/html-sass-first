@@ -1,0 +1,13 @@
+$text-color: orange;
+
+body {
+    background-color: limegreen;
+}
+
+h1, h3 {
+    color: $text-color;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+// prova con linux
