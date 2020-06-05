@@ -1,0 +1,11 @@
+$text_color: yellow;
+
+body {
+    background-color: green;
+}
+
+h1, h3 {
+    color: $text_color;
+    text-align: center;
+    text-transform: uppercase;
+}
